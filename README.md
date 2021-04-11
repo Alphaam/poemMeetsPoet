@@ -11,6 +11,10 @@ After I had gathered my output text from GPT-2 I then went on to plan how to pre
 The hardship I faced with this is how to establish a link between the other media with the text i.e. how to pick music and pictures that were contextually relevant to the text. I solved this by thinking about the overarching themes of the produced poems followed by looking for photos that reflected that theme. I found the overarching themes to be Love, Youth, New York, and Survival. I needed all this work to be connected to further the theme of the entire project which is trying to create coherency and consistency. I therefore set out to look for a singular source for these images that had a consistent editorial style that also had work that fit all these themes. I decided on the work of my friend Markus Abeler (Instagram:     https://www.instagram.com/abelerphotos/) and selected the pictures that best captured the emotions of the poems. I then selected ambient music that captured the tones of the poems as well.
 Another hardship I faced was how to make text the focus of the piece with so much going on. For this, I used this week’s assignment in text on image generation to experiment and figure this out. In this assignment I played around with positioning of the text on the image and I found that the positioning, at least as I perceived these finished works, is the determinant factor. The more the of the image that text obscures and how disruptive it is to the image (if it is at the center) the more the focus is shifted to the text. I then proceeded to implement this in my website where text is at the center of the image while still allowing some parts of the image to show through to sustain the complimentary effect I was aiming to create with the merging of these media.
 
-Overall I am very pleased with how my project turned out and I finally have a product that has accomplished what I have wanted to accomplish since the second week of tis class.
+Overall I am very pleased with how my project turned out.
+
+## Link to code for the website ##
+
+Github repo: https://github.com/Alphaam/poemMeetsPoet
 
 
